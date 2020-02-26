@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa236b9d-42ce-4e10-96eb-57faaa729fd3" name="sizheng" url="http://175.24.53.81">
+        <fileTransfer host="175.24.53.81" port="22" rootFolder="/home/ubuntu/go/src/sizheng" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
